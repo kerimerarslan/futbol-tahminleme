@@ -1,0 +1,21 @@
+EVG=ev sahibi gol
+DEPG=deplasman gol
+MS=maç sonucu kazanan
+İEG =ilk yarı ev sahibi gol
+İDG=ilk yarı deplasman gol
+İS=ilk yarı kazanan
+
+
+ES=ev sahibi şut
+DS=deplasman şut
+EKS=ev sahibi kaleyi bulan şut
+DKS=deplasman kaleyi bulan şut
+EF=ev sahibi faul
+DF=deplasman faul
+EK=ev sahibi korner
+DK=deplasman korner
+ESK=ev sahibi sarı kart
+DSK=depalsman sarı kart
+EKK=ev sahibi kırmızı kart
+DKK=deplasman kırmızı kart
+
